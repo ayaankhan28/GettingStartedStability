@@ -21,7 +21,7 @@ To use the Text to Image Generation model, follow these steps:
 1. Clone or download this python file in your local machine:
 2. Install the required packages:
    ```
-   pip install numpy opencv-python tensorflow
+   pip install numpy opencv-python tensorflow mediapipe
    ```
 3. Add your API key in place of `YOUR_API_KEY`.
 4. Write your prompt in place of `PROMPT`.
