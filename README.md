@@ -1,6 +1,6 @@
 # Getting started with stable diffusion
 ![img](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/dc49186d-3e63-42ed-8ef8-0f174cc43473)
-![txt2img_2968187657](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/10fb1eed-ba15-4d04-b4e9-ea8410823fb6)
+![txt2img_2968187657](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/10fb1eed-ba15-4d04-b4e9-ea84108223fb)
 
 ## Introduction
 
@@ -18,13 +18,16 @@ Before using the Text to Image Generation model, ensure you have the following:
 
 To use the Text to Image Generation model, follow these steps:
 
-1. Clone or download this python file in  your local machine:
-2. add your API key in place of `YOUR_API_KEY`.
-3. write your prompt in place of `PROMPT`.
+1. Clone or download this python file in your local machine:
+2. Install the required packages:
+   ```
+   pip install numpy opencv-python
+   ```
+3. Add your API key in place of `YOUR_API_KEY`.
+4. Write your prompt in place of `PROMPT`.
 
 ## ComfyUI Installation 
 https://github.com/comfyanonymous/ComfyUI
 
-   ![image](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/9eefd732-d285-4763-a097-bffbccdbcb41)
-
+  ![image](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/9eefd732-d285-4763-a097-bffbccdbcb41)
 
