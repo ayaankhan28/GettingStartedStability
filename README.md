@@ -14,6 +14,11 @@ Before using the Text to Image Generation model, ensure you have the following:
 
 2. **API Key**: You'll need an API key for Stable Diffusion to access their services. If you don't have one, you can sign up for an API key on the [Stable Diffusion website](https://stability.ai/).
 
+3. **Hugging Face**: This project uses Hugging Face's transformers library. Install it using:
+   ```
+   pip install transformers
+   ```
+
 ## Installation
 
 To use the Text to Image Generation model, follow these steps:
