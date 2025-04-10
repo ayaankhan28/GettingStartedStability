@@ -21,7 +21,7 @@ To use the Text to Image Generation model, follow these steps:
 1. Clone or download this python file in your local machine:
 2. Install the required packages:
    ```
-   pip install numpy opencv-python
+   pip install numpy opencv-python tensorflow
    ```
 3. Add your API key in place of `YOUR_API_KEY`.
 4. Write your prompt in place of `PROMPT`.
@@ -30,4 +30,3 @@ To use the Text to Image Generation model, follow these steps:
 https://github.com/comfyanonymous/ComfyUI
 
   ![image](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/9eefd732-d285-4763-a097-bffbccdbcb41)
-
