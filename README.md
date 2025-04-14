@@ -6,6 +6,14 @@
 
 This repository contains a Text to Image Generation model that utilizes Stable Diffusion, a state-of-the-art generative model for creating high-quality images from textual descriptions.
 
+## Supported Languages
+
+This project supports multiple programming languages:
+- Python
+- JavaScript
+- Java
+- Go
+
 ## Prerequisites
 
 Before using the Text to Image Generation model, ensure you have the following:
