@@ -14,6 +14,7 @@ This project supports multiple programming languages:
 - Java
 - Go
 - C++
+- Ruby
 
 ## Prerequisites
 
@@ -43,7 +44,7 @@ To use the Text to Image Generation model, follow these steps:
 ## ComfyUI Installation 
 https://github.com/comfyanonymous/ComfyUI
 
- ![image](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/9eefd732-d285-4763-a097-bffbccdbcb41)
+![image](https://github.com/ayaankhan28/GettingStartedStability/assets/98885614/9eefd732-d285-4763-a097-bffbccdbcb41)
 
 ## License
 
