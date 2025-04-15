@@ -9,9 +9,7 @@ This repository contains a Text to Image Generation model that utilizes Stable D
 ## Supported Languages
 
 This project supports multiple programming languages:
-- Python
 - JavaScript
-- Java
 - Go
 - C++
 - Ruby
